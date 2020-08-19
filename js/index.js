@@ -4,11 +4,11 @@ console.log("I'm ready!");
 
 let hacker1="jada"
 
-console.log(`The drivers name is ${hacker1}` );
+console.log(`The drivers name is ${hacker1}.` );
 
 let hacker2="fabian"
 
-console.log(`The navigators name is ${hacker
+console.log(`The navigators name is ${hacker}.` );
 
 //Iteration 2: Conditionals
 
